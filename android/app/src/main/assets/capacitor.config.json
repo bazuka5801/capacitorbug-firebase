@@ -1,0 +1,12 @@
+{
+  "appId": "org.bazumax.capacitorbug",
+  "appName": "capacitor-but-android-dep",
+  "bundledWebRuntime": true,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

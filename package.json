@@ -13,8 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@capacitor/android": "2.4.0",
     "@capacitor/cli": "^2.4.0",
     "@capacitor/core": "^2.4.0",
-    "cordova-plugin-firebasex": "^10.1.2"
+    "cordova-plugin-androidx": "^2.0.0",
+    "cordova-plugin-androidx-adapter": "^1.1.1",
+    "cordova-plugin-firebasex": "^10.1.2",
+    "jetifier": "^1.6.6"
   }
 }
